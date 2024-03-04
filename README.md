@@ -4,4 +4,5 @@ Fiecare clasificator urmareste sortarea setului de date clasei corespunzatoare s
 * Random Forrest
 * Naive Bayes
 * K-Nearest Neighbors
+  
 In aditie, pentru clasificatorii Naive Bayes si K-Nearest Neighbors are loc o comparatie a performantelor acestora
